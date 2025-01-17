@@ -1,0 +1,14 @@
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.AssemblyInfoInputs.cache
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.AssemblyInfo.cs
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.csproj.CoreCompileInputs.cache
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/bin/Debug/net9.0/Tests
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/bin/Debug/net9.0/Tests.deps.json
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/bin/Debug/net9.0/Tests.runtimeconfig.json
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/bin/Debug/net9.0/Tests.dll
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/bin/Debug/net9.0/Tests.pdb
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.dll
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/refint/Tests.dll
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.pdb
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/Tests.genruntimeconfig.cache
+/Users/ocyril/Documents/workspaces/see-why/github/Tests/obj/Debug/net9.0/ref/Tests.dll
